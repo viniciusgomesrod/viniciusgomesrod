@@ -248,14 +248,16 @@ Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Admi
 <div align="center">
 
 ```text
- █████╗ ██████╗  █████╗ ███╗   ███╗██╗   ██╗███╗   ██╗██╗
-██╔══██╗██╔══██╗██╔══██╗████╗ ████║██║   ██║████╗  ██║██║
-███████║██████╔╝███████║██╔████╔██║██║   ██║██╔██╗ ██║██║
-██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║██║
-██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
-```                                        
-
+ __      _______ _   _ _____ _____ _____ _    _  _____ 
+ \ \    / /_   _| \ | |_   _/ ____|_   _| |  | |/ ____|
+  \ \  / /  | | |  \| | | || |      | | | |  | | (___  
+   \ \/ /   | | | . ` | | || |      | | | |  | |\___ \ 
+    \  /   _| |_| |\  |_| || |____ _| |_| |__| |____) |
+     \/   |_____|_| \_|_____\_____|_____|\____/|_____/ 
+                                                       
+                                                       
+```
+                                    
 </div>
 <div>
 <table>
@@ -288,7 +290,7 @@ Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Admi
 <a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
+| Créditos: <a href="https://github.com/viniciusgomesrod" target="_blank">© 2024 Vinícius</a><br />
 | Última atualização: 13/03/2024
 </td>
 </tr>
