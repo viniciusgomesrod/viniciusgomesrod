@@ -54,7 +54,7 @@
 <img height="20" alt="GIF" src="https://github.com/viniciusgomesrod/viniciusgomesrod/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Administrativo (2021-2024) na empresa <a href="https://alucaluminio.com.br/" target= "_blank">Aluc Alumínio<a/>, do ramo de indústria e comércio na construção civil, ocupando funcão com ênfase em controle financeiro e comercial, além do controle de obras e atendimento ao cliente. Estudante do Ensino Médio da <a href="https://sesiescolas.fiemg.com.br/unidade-contagem-benjamin-guimaraes" target="_blank">Escola Sesi Benjamin Guimarães</a>(2021-2024), em que participou de olímpiadas de matemática e biologia, além de possuir uma das maiores média da turma.
+Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Administrativo (2021-2024) na empresa <a href="https://alucaluminio.com.br/" target= "_blank">Aluc Alumínio<a/>, do ramo de indústria e comércio na construção civil, ocupando funcão com ênfase em controle financeiro e comercial, além do controle de obras e atendimento ao cliente. Estudante do Ensino Médio (2021-2024) da <a href="https://sesiescolas.fiemg.com.br/unidade-contagem-benjamin-guimaraes" target="_blank">Escola Sesi Benjamin Guimarães</a>, em que participou de olímpiadas de matemática e biologia, além de possuir uma das maiores média da turma.
 </div>
 
 -----
@@ -93,97 +93,20 @@ Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Admi
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/bash.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/python.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/c.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/cpp.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/csharp.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/java.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://openjfx.io/" target="_blank"><img height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/javafx.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/primefaces.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://spring.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spring.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.playframework.com/" target="_blank"><img width="48" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/play.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.scala-lang.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/scala.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://www.jenkins.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/jenkins.svg?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/html.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/css.svg?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/react.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vbs.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mysql.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postgresql.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/mongodb.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dbeaver.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nodejs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://nextjs.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/nextjs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://jestjs.io/pt-BR/" target="_blank"><img width="30" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/jest.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://prometheus.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/prometheus.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://grafana.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/grafana.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://newrelic.com/pt" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/newrelic.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://fastapi.tiangolo.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/fastapi.svg?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/docker.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/aws.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.heroku.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/heroku.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dotnet.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.postman.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/postman.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/insomnia.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.soapui.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soap.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://redis.io/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/redis.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://aws.amazon.com/pt/s3/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/s3.svg?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/sqs.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/git.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/gitlab.png?raw=true"/></a></code>
-&nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pc.png?raw=true"/></a></code>
-&nbsp; 
 <code><a href="https://www.eclipse.org/downloads/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/eclipse.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/netbeans.png?raw=true"/></a></code>
-&nbsp;
 <code><a href="https://code.visualstudio.com/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/intellij.png?raw=true"/></a></code>
-&nbsp;
-<code><a href="https://developer.apple.com/xcode/" target="_blank"><img width="32" height="32" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/xcode.png?raw=true"/></a></code>
 </div>
 
 -----
@@ -198,34 +121,6 @@ Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Admi
 </div>
 
 -----
-
-<div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
-</details>
-</div>
-<div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
-</div>
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-</div>
-</div>
-
------
-
 <div>
 <table align="right">
 <tr>
@@ -235,7 +130,7 @@ Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Admi
 <td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
 </tr>
 <tr>
- <td align="center" colspan="1"></td>
+<td align="center" colspan="1"></td>
 </tr> 
 </table>
 <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
