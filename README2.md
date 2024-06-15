@@ -96,29 +96,6 @@ Graduando em Engenharia de Software, pela Puc Minas (2024-2028). Assistente Admi
 &nbsp;
 </div>
 
------
-<table>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-<tr>
-<td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R4.png?raw=true" alt="R4"/>
-</td>
-</tr>
-<tr>
-<td>
-<img align="center" src="https://github.com/viniciusgomesrod/viniciusgomesrod/blob/main/img/R6.png?raw=true" alt="R6"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="1"></td>
-</tr> 
-</table>
-</div>
-</details>
-</div>
-
 <div align="center">
 
 ```text
